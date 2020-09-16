@@ -129,3 +129,8 @@
 [2020-09-16T12:34:42-0700] [ALPM] installed libpcrecpp (8.44-1)
 [2020-09-16T12:34:42-0700] [ALPM] installed pcre-devel (8.44-1)
 [2020-09-16T12:34:42-0700] [ALPM] transaction completed
+[2020-09-16T12:35:30-0700] [PACMAN] Running 'pacman -S bison'
+[2020-09-16T12:35:32-0700] [ALPM] transaction started
+[2020-09-16T12:35:33-0700] [ALPM] installed bison (3.6.4-1)
+[2020-09-16T12:35:33-0700] [ALPM] transaction completed
+[2020-09-16T12:35:33-0700] [ALPM] running 'texinfo-install.hook'...

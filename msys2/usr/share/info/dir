@@ -346,6 +346,7 @@ Software development
 * automake-1.7: (automake1.7).  Making Makefile.in's.
 * automake-1.8: (automake1.8).  Making Makefile.in's.
 * automake-1.9: (automake1.9).  Making Makefile.in's.
+* bison: (bison).               GNU parser generator (Yacc replacement).
 
 Software libraries
 * GnuTLS: (gnutls).             GNU Transport Layer Security Library.

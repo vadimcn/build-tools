@@ -121,3 +121,11 @@
 [2020-09-16T12:30:39-0700] [ALPM] installed automake-wrapper (11-1)
 [2020-09-16T12:30:39-0700] [ALPM] transaction completed
 [2020-09-16T12:30:39-0700] [ALPM] running 'texinfo-install.hook'...
+[2020-09-16T12:34:38-0700] [PACMAN] Running 'pacman -S pcre-devel'
+[2020-09-16T12:34:42-0700] [ALPM] transaction started
+[2020-09-16T12:34:42-0700] [ALPM] installed libpcre16 (8.44-1)
+[2020-09-16T12:34:42-0700] [ALPM] installed libpcre32 (8.44-1)
+[2020-09-16T12:34:42-0700] [ALPM] installed libpcreposix (8.44-1)
+[2020-09-16T12:34:42-0700] [ALPM] installed libpcrecpp (8.44-1)
+[2020-09-16T12:34:42-0700] [ALPM] installed pcre-devel (8.44-1)
+[2020-09-16T12:34:42-0700] [ALPM] transaction completed

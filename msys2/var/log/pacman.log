@@ -102,3 +102,22 @@
 [2020-09-03T18:21:03+0000] [ALPM] installed base (2020.05-2)
 [2020-09-03T18:21:03+0000] [ALPM] transaction completed
 [2020-09-03T18:21:03+0000] [ALPM] running 'texinfo-install.hook'...
+[2020-09-16T12:30:24-0700] [PACMAN] Running 'pacman -S autoconf automake'
+[2020-09-16T12:30:33-0700] [ALPM] transaction started
+[2020-09-16T12:30:33-0700] [ALPM] installed m4 (1.4.18-2)
+[2020-09-16T12:30:34-0700] [ALPM] installed diffutils (3.7-1)
+[2020-09-16T12:30:34-0700] [ALPM] installed autoconf (2.69-5)
+[2020-09-16T12:30:34-0700] [ALPM] installed automake1.6 (1.6.3-3)
+[2020-09-16T12:30:35-0700] [ALPM] installed automake1.7 (1.7.9-3)
+[2020-09-16T12:30:35-0700] [ALPM] installed automake1.8 (1.8.5-4)
+[2020-09-16T12:30:35-0700] [ALPM] installed automake1.9 (1.9.6-3)
+[2020-09-16T12:30:36-0700] [ALPM] installed automake1.10 (1.10.3-4)
+[2020-09-16T12:30:36-0700] [ALPM] installed automake1.11 (1.11.6-4)
+[2020-09-16T12:30:37-0700] [ALPM] installed automake1.12 (1.12.6-4)
+[2020-09-16T12:30:37-0700] [ALPM] installed automake1.13 (1.13.4-5)
+[2020-09-16T12:30:37-0700] [ALPM] installed automake1.14 (1.14.1-4)
+[2020-09-16T12:30:38-0700] [ALPM] installed automake1.15 (1.15.1-2)
+[2020-09-16T12:30:38-0700] [ALPM] installed automake1.16 (1.16.2-2)
+[2020-09-16T12:30:39-0700] [ALPM] installed automake-wrapper (11-1)
+[2020-09-16T12:30:39-0700] [ALPM] transaction completed
+[2020-09-16T12:30:39-0700] [ALPM] running 'texinfo-install.hook'...

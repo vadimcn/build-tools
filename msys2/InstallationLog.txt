@@ -1,0 +1,86 @@
+************************************* Invoked: Wed Sep 16 12:22:50 2020
+[0] Arguments: C:\Users\chega\Downloads\msys2-x86_64-20200903.exe
+[5] Operations sanity check succeeded.
+[45642] Warning: Empty filename passed to function
+[45643] Warning: Empty filename passed to function
+[45643] Warning: Empty filename passed to function
+[45644] Warning: Empty filename passed to function
+[45644] Warning: Empty filename passed to function
+[45644] Warning: Empty filename passed to function
+[46424] Warning: Empty filename passed to function
+[46424] Warning: Empty filename passed to function
+[46424] Warning: Empty filename passed to function
+[46426] Warning: Empty filename passed to function
+[46426] Warning: Empty filename passed to function
+[46426] Warning: Empty filename passed to function
+[46627] Warning: Empty filename passed to function
+[46627] Warning: Empty filename passed to function
+[46627] Warning: Empty filename passed to function
+[46628] Warning: Empty filename passed to function
+[46628] Warning: Empty filename passed to function
+[46628] Warning: Empty filename passed to function
+[50115] Warning: Empty filename passed to function
+[50115] Warning: Empty filename passed to function
+[50115] Warning: Empty filename passed to function
+[63801] backup  operation: Mkdir
+[63801] 	- arguments: C:/NW/build-tools/msys2
+[63801] Done
+[63802] perform  operation: Mkdir
+[63802] 	- arguments: C:/NW/build-tools/msys2
+[63802] Done
+[63803] Install size: 2 components
+[63843] backup com.msys2.root.base operation: Extract
+[63843] 	- arguments: installer://com.msys2.root.base/20200903msys64.7z, C:\NW\build-tools\msys2
+[63843] Done
+[63843] perform com.msys2.root.base operation: Extract
+[63843] 	- arguments: installer://com.msys2.root.base/20200903msys64.7z, C:\NW\build-tools\msys2
+[86518] Done
+[86519] backup com.msys2.root.base operation: CreateShortcut
+[86519] 	- arguments: C:\NW\build-tools\msys2\msys2_shell.cmd, C:\Users\chega\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit-bt/MSYS2 MinGW 32-bit.lnk, -mingw32, iconPath=C:\NW\build-tools\msys2/mingw32.exe
+[86519] Done
+[86519] perform com.msys2.root.base operation: CreateShortcut
+[86519] 	- arguments: C:\NW\build-tools\msys2\msys2_shell.cmd, C:\Users\chega\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit-bt/MSYS2 MinGW 32-bit.lnk, -mingw32
+[86558] Done
+[86558] backup com.msys2.root.base operation: CreateShortcut
+[86558] 	- arguments: C:\NW\build-tools\msys2\msys2_shell.cmd, C:\Users\chega\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit-bt/MSYS2 MinGW 64-bit.lnk, -mingw64, iconPath=C:\NW\build-tools\msys2/mingw64.exe
+[86558] Done
+[86559] perform com.msys2.root.base operation: CreateShortcut
+[86559] 	- arguments: C:\NW\build-tools\msys2\msys2_shell.cmd, C:\Users\chega\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit-bt/MSYS2 MinGW 64-bit.lnk, -mingw64
+[86588] Done
+[86588] backup com.msys2.root.base operation: CreateShortcut
+[86588] 	- arguments: C:\NW\build-tools\msys2\msys2_shell.cmd, C:\Users\chega\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit-bt/MSYS2 MSYS.lnk, -msys, iconPath=C:\NW\build-tools\msys2/msys2.exe
+[86588] Done
+[86589] perform com.msys2.root.base operation: CreateShortcut
+[86589] 	- arguments: C:\NW\build-tools\msys2\msys2_shell.cmd, C:\Users\chega\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit-bt/MSYS2 MSYS.lnk, -msys
+[86607] Done
+[86607] backup com.msys2.root.base operation: Execute
+[86607] 	- arguments: C:\NW\build-tools\msys2\usr\bin\bash.exe, --login, -c, exit
+[86607] Done
+[86608] perform com.msys2.root.base operation: Execute
+[86608] 	- arguments: C:\NW\build-tools\msys2\usr\bin\bash.exe, --login, -c, exit
+[86620] C:\\NW\\build-tools\\msys2\\usr\\bin\\bash.exe" started, arguments: "--login -c exit
+[87308] Copying skeleton files.\nThese files are for the users to personalise their msys2 experience.\n\nThey will never be overwritten nor automatically updated.\n\n
+[87402] './.bashrc' -> '/home/chega/.bashrc'\n'./.bash_logout' -> '/home/chega/.bash_logout'\n
+[87418] './.bash_profile' -> '/home/chega/.bash_profile'\n
+[87465] './.inputrc' -> '/home/chega/.inputrc'\n
+[87480] './.profile' -> '/home/chega/.profile'\n
+[87574] 'C:\\WINDOWS\\system32\\drivers\\etc\\hosts' -> '/etc/hosts'\n
+[87621] 'C:\\WINDOWS\\system32\\drivers\\etc\\protocol' -> '/etc/protocols'\n
+[87715] 'C:\\WINDOWS\\system32\\drivers\\etc\\services' -> '/etc/services'\n
+[87730] 'C:\\WINDOWS\\system32\\drivers\\etc\\networks' -> '/etc/networks'\n
+[89137] ==> Updating trust database...\n
+[89231] ==> Appending keys from msys2.gpg...\n
+[89418] ==> Locally signing trusted keys in keyring...\n
+[89434]   -> Locally signing key 6E8FEAFF9644F54EED90EEA0790AE56A1D3CFDDC...\n
+[89621]   -> Locally signing key D55E7A6D7CE9BA1587C0ACACF40D263ECA25678A...\n
+[89809]   -> Locally signing key 123D4D51A1793859C2BE916BBBE514E53E0D0813...\n
+[89902]   -> Locally signing key B91BCF3303284BF90CC043CA9F418C233E652008...\n
+[90090]   -> Locally signing key 9DD0D4217D75A33B896159E6DA7EF2ABAEEA755C...\n
+[90137]   -> Locally signing key 69985C5EB351011C78DF7F6D755B8182ACD22879...\n
+[90481] ==> Importing owner trust values...\n==> Disabling revoked keys in keyring...\n  -> Disabling key B19514FB53EB3668471B296E794DCF97F93FC717...\n
+[90574] ==> Updating trust database...\n
+[102732] \x1B[H\x1B[2J\x1B[3J\n\n###################################################################\n#                                                                 #\n#                                                                 #\n#                   C   A   U   T   I   O   N                     #\n#                                                                 #\n#                  This is first start of MSYS2.                  #\n#       You MUST restart shell to apply necessary actions.        #\n#                                                                 #\n#                                                                 #\n###################################################################\n\n\n\x1B[H\x1B[2J\x1B[3J
+[102732] Done
+[102739] Writing maintenance tool: "C:\\NW\\build-tools\\msys2/maintenancetool.exe.new"
+[102953] Wrote permissions for maintenance tool.
+[103542] Maintenance tool restart: false.
